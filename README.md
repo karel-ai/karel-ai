@@ -16,4 +16,4 @@
 
 🌱 Currently looking for a 3–4 months internship in **luxury & data**, starting **April 2025**.
 
-📫 How to reach me: [email]karel.elong@aivancity.education | [LinkedIn](https://www.linkedin.com/in/karel-elong)
+📫 How to reach me: karel.elong@aivancity.education | [LinkedIn](https://www.linkedin.com/in/karel-elong)
