@@ -1,19 +1,23 @@
 ## 👋 Hello, I'm Karel!
 
-🎓 I'm currently studying Artificial Intelligence & Data Science at Aivancity Paris.
+🎓 AI & Data Science Student (2nd year) at Aivancity Paris
 
-💡 Passionate about Machine Learning, ethical AI, and the intersection between tech & luxury.
+💡 Passionate about Machine Learning, ethical AI, and leveraging data science in the luxury industry.
 
-🔧 Technologies I work with:
-- Python (Pandas, scikit-learn, TensorFlow, PyTorch)
-- SQL, Git, Jupyter
-- NLP, Speech-to-Text, TTS
+🔧 Technologies & Skills
+  - Programming: Python (Pandas, scikit-learn, TensorFlow, PyTorch), SQL, Git, Jupyter
+  - Data & AI: NLP, Speech-to-Text, Text-to-Speech, data visualization, scraping, data engineering
+  - Other: Project management, AI ethics, regulatory knowledge
 
-🚀 Projects:
-- Bella Hologram Project (STT, LLM, TTS, fine-tuning)
-- Data visualization & analysis for real-world cases
-- Scraping and data engineering tasks
+🚀 Featured Projects
 
-🌱 Currently seeking a 24-month apprenticeship in luxury and data sector, starting in September 2026.
+  - AI-Assisted Clinical Reporting Tool (CIRCB, Cameroon).
+  - Emotional AI Assistant for Pediatric Healthcare (details under NDA).
+  - Data visualization & analysis for real-world business cases.
+  - Scraping and engineering pipelines for complex datasets.
+
+🌱 Looking Ahead
+
+📅 Currently seeking a 24-month apprenticeship in luxury and data, starting September 2026.
 
 📫 How to reach me: karel.elong@aivancity.education | [LinkedIn](https://www.linkedin.com/in/karel-elong)
