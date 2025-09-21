@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Karel!
 
-🎓 AI & Data Science Student (2nd year) at Aivancity Paris
+🎓 AI & Data Science Student (3rd year) at Aivancity Paris
 
 💡 Passionate about Machine Learning, ethical AI, and leveraging data science in the luxury industry.
 
