@@ -14,6 +14,6 @@
 - Data visualization & analysis for real-world cases
 - Scraping and data engineering tasks
 
-🌱 Currently looking for a 3–4 months internship in **luxury & data**, starting **April 2025**.
+🌱 Currently seeking a 24-month apprenticeship in luxury and data sector, starting in September 2026.
 
 📫 How to reach me: karel.elong@aivancity.education | [LinkedIn](https://www.linkedin.com/in/karel-elong)
