@@ -18,6 +18,6 @@
 
 🌱 Looking Ahead
 
-📅 Currently seeking a 24-month apprenticeship in luxury and data, starting September 2026.
+📅 Currently seeking a 24-month apprenticeship in luxury and data, starting in July 2026 or in September 2026.
 
 📫 How to reach me: karel.elong@aivancity.education | [LinkedIn](https://www.linkedin.com/in/karel-elong)
