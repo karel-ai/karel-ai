@@ -24,7 +24,7 @@
 - **Concept:** Analyse la correspondance entre un CV et une offre d'emploi, diagnostique les lacunes (Hard/Soft skills) et réécrit le CV automatiquement.
 - **Innovation:** Utilisation d'un **LLM (Mistral AI)** couplé à du **RAG** pour une réécriture contextuelle et éthique. Chatbot intégré pour les retouches finales.
 - **Techs:** Docker, FastAPI, Python, Jinja2, Mistral API, RAG (SentenceTransformers).
-- [Link to Repo](https://github.com/karel-elong/aria-cv-coach)
+- [Link to Repo](https://github.com/karel-ai/aria-cv-coach)
 
 ### 🏥 AI-Assisted Clinical Reporting
 *Développement d'un outil de transcription et d'analyse pour le CIRCB.*
