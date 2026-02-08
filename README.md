@@ -9,7 +9,7 @@
 - Focus: Leveraging **Machine Learning** to solve complex business problems while maintaining **ethical standards**.
 - Currently looking for a **24-month apprenticeship** in the Luxury sector (Starting July/Sept 2026).
 
-## 🛠 Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/python-3578E5?style=for-the-badge&logo=python&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -39,9 +39,9 @@
 
 ## Find me on Fiverr
 I offer specialized services in:
-- ✅ Custom Web Scraping & Data Engineering
-- ✅ NLP & Text Analysis Pipelines
-- ✅ Data Visualization Dashboards
+- Custom Web Scraping & Data Engineering
+- NLP & Text Analysis Pipelines
+- Data Visualization Dashboards
 
 [Hire me on Fiverr](https://fr.fiverr.com/s/8z7Bwxg)
 
