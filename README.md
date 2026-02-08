@@ -29,7 +29,7 @@
 ### AI-Assisted Clinical Reporting
 *Développement d'un outil de transcription et d'analyse pour le CIRCB.*
 - **Techs:** Speech-to-Text, NLP, Python.
-- [Link to Repo/Demo]
+- [Link to Repo/](https://github.com/karel-ai/HIV_Resistance_AI_Tool_CIRCB)
 
 ### Data for Luxury (Research & Analysis)
 *Analyse prédictive des tendances de consommation de luxe.*
