@@ -7,7 +7,7 @@
 ## About Me
 - 3rd year student at **Aivancity Paris**.
 - Focus: Leveraging **Machine Learning** to solve complex business problems while maintaining **ethical standards**.
-- Currently looking for a **24-month apprenticeship** in the Luxury sector (Starting July/Sept 2026).
+- Currently looking for a **24-month apprenticeship** in the Fashion sector (Starting July/Sept 2026).
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3578E5?style=for-the-badge&logo=python&logoColor=white) 
